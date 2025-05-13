@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+Font {
+    font-family: sans-serif;
+}
+
+
+img {
+    border-radius: 20px;
+    width: 320px;
+    height: 320px;
+}
+
+h1 {
+    color: white;
+    margin-top: 31px;
+    margin-bottom: 8px;    
+}
+
+p {
+    color: white;
+}
