@@ -1,4 +1,0 @@
-https://github.com/franssa/franssa.git
-https://github.com/franssa/franssa.github.io.git
-
-franssa.github.io
