@@ -1,0 +1,107 @@
+2025_03_21
+
+01_05 - Boas Vindas _ Como Estudar
+Pirâmide de Glasser 
+80% Escrever, Interpretar, Expressar, Revisar, Identificar, Comunicar, Ampliar, Demonstrar, Praticar, Diferenciar
+90% - Explicar, Resumir, Estruturar, Definir, Generalizar, Elaborar, Estruturar
+
+O método de Ebbinghaus é a técnica de repetição espaçada
+Para aplicar a técnica de repetição espaçada, pode-se:
+- Distribuir o estudo ao longo do tempo, em vez de estudar tudo de uma vez
+- Revisar o conteúdo estudado sem olhar o material
+- Tentar relembrar as informações dias depois de ter estudado
+
+02_08 - Como o backend e o frontend se comunicam?
+
+Através de API = Aplication Programing Interface
+Interface = Como o software ou equipamento se comunica com o mundo
+Interface do backend = Interface de programação de aplicação (API)
+URL / Endpoint = Pega no frontend para acessar o backend
+Para API Funcionar = Normas e protocolos padrões.
+Como se fosse o garçom. 
+Cliente pede comida X
+Garçom leva o pedido para a cozinha (request)
+Cozinha entrega o pedido ao garçom
+Garçom leva o pedido ao  cliente (response)
+Faz comunicação entre backend e backend também
+API = Conjunto de normas que possibilita a comunicação entre plataformas utilizando padrões e protocolos, utilizando a mesma regra
+
+02_09 - Index.html e .css
+
+Arquivo principal que serve de guia e fica na pasta raiz (root)
+Os arquivos html contem a estrutura do site.
+O site tem o CSS, que é o estilo do site. Dita a fonte, cor, fundo, espaçamento
+JavaScript dá vida ao site (Adiciona uma lógica no website)
+Comum ter uma pasta images
+
+02_11 - O começo de tudo
+
+Input = Problema a ser resolvido
+Output = Problema resolvido
+Código = Onde é feito o programa (ações para resolver o problema)
+Padrão ASCII (256) = American Standart Code for Information Interchange
+Cada letra tem 8 bits (Binary Digits) e por isso 8 bits = 1 byte
+Padrão Unicode (138000) = Padrão para outros idiomas para comunicação efetiva
+
+02_12 - Onde estudar
+
+https://developer.mozilla.org/pt-BR/docs/Web/HTML
+https://developer.mozilla.org/pt-BR/docs/Web/CSS
+https://www.w3c.br/
+
+
+
+Notas:
+01
+https://www.youtube.com/watch?v=c009rX1Cf48
+Git para Iniciantes ou Entrevista de Emprego! Instalação, Novo Repositório e Conflitos com GitHub
+
+git init . (iniciou do repositorio que estava)
+git pull (puxar do repositório)
+git push (Mandar para o repositório)
+git add . (pasta/do/arquivo/nome.extensão)
+git remote add origin (https://
+git commit -m 'escrever a mensagem de referência do que foi feito'
+git status
+git remote 
+git fesh (
+
+02
+https://www.youtube.com/watch?v=tet2UNZ_2Vg
+Como publicar site grátis na internet utilizando o GitHub Pages com Bootstrap | Hospedar Site Grátis
+
+franssa.github.io. 3600 IN A 185.199.108.153
+franssa.github.io. 3600 IN A 185.199.109.153
+franssa.github.io. 3600 IN A 185.199.110.153
+franssa.github.io. 3600 IN A 185.199.111.153
+
+03
+https://www.youtube.com/watch?v=ji6MgiVu-1Y
+Como Registrar e Configurar Domínio e Subdomínio, apontar para o GitHub Pages usando Registro.BR
+
+04
+https://www.youtube.com/watch?v=9ygf4hkLVnA
+GitHub como Portfólio? Aprenda a Personalizar seu Perfil!
+
+https://github.com/denvercoder1
+https://github.com/anuraghazra
+https://devicon.dev/
+https://www.markdownguide.org/basic-syntax/
+
+
+
+Domínio:
+lucianofg.com.br
+
+Sub-Domínios
+www.lucianofg.com.br
+cv.lucianofg.com.br
+abelhas.lucianofg.com.br
+et.lucianofg.com.br
+
+https://github.com/settings/pages_verified_domains/lucianofg.com.br
+01 - Create a TXT record in your DNS configuration for the following hostname
+_github-pages-challenge-franssa
+
+02 - Use this code for the value of the TXT record:
+668c85294811b1135ae1a155c9a209
